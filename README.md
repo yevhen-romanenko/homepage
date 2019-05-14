@@ -5,3 +5,5 @@
 > - Ryu Hoshi.
 
 ![Image of Ryu](https://vignette.wikia.nocookie.net/streetfighter/images/4/46/Ryurender.png/revision/latest?cb=20170728171704)
+
+Hocus-pocus!
